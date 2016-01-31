@@ -1,0 +1,11 @@
+@font-face
+  font-family Colfax
+  font-style normal
+  src url('./ColfaxWeb.eot')
+  src url('./ColfaxWeb.woff') format('woff')
+  font-weight 400
+
+.foo
+  .bar
+    .baz
+      color 123

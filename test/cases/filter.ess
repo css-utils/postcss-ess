@@ -1,0 +1,20 @@
+
+
+
+:doc
+  This is a doc
+
+  @param {String} foo
+
+:module
+  export function hello() {
+    return 'World'
+  };
+
+:test
+  it('should work correctly', function() {
+    console.log('It Works!');
+  });
+
+::foo
+  color red

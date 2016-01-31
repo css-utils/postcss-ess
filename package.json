@@ -1,0 +1,28 @@
+{
+  "name": "postcss-ess",
+  "version": "0.1.0",
+  "description": "ess syntax for postcss",
+  "main": "index.js",
+  "dependencies": {
+    "css-props": "^1.0.3",
+    "postcss": "^5.0.14"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "postcss-parser-tests": "^5.0.5",
+    "should": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-utils/postcss-ess.git"
+  },
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/css-utils/postcss-ess/issues"
+  },
+  "homepage": "https://github.com/css-utils/postcss-ess#readme"
+}
