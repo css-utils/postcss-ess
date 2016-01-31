@@ -8,4 +8,5 @@
 .foo
   .bar
     .baz
+      font-family Colfax
       color 123
