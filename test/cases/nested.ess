@@ -1,0 +1,23 @@
+.root
+  .r
+    .rr
+      .rrr
+        color red
+      .rrl
+        color red
+    .rl
+      .rlr
+        color red
+      .rll
+        color red
+  .l
+    .lr
+      .lrr
+        color red
+      .lrl
+        color red
+    .ll
+      .llr
+        color red
+      .lll
+        color red
