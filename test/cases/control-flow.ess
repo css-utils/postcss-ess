@@ -1,0 +1,14 @@
+if foo
+  .foo
+    div
+      each item in [1,2,3,4]
+        .foo
+          color = item
+elseif false
+  .c
+    for var i = 0; i < 10; i++
+      .bar
+        color = i;
+else
+  .foo
+    color gray

@@ -1,0 +1,9 @@
+= Math.random()
+
+=
+  var foo = 123;
+  return foo;
+
+.foo
+  color= 'red'
+  background-color     =    'yellow'

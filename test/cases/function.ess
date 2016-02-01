@@ -1,0 +1,5 @@
+
+function Foo(a, b)
+  .bar
+    color = a
+    background-color = b

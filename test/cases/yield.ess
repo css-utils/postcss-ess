@@ -1,0 +1,10 @@
+.foo
+  yield
+
+  @media desktop
+    .foo
+      yield desktop
+
+  @media mobile
+    .foo
+      yield mobile('12px')

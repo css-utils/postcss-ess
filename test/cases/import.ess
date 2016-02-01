@@ -1,0 +1,5 @@
+import Foo from './bar'
+
+import {foo, baz, bang} from 'path/to/my-module'
+
+

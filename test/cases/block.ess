@@ -1,0 +1,10 @@
+.App
+  block
+    .foo
+      color red
+  block desktop
+    .foo
+      color blue
+  block mobile(size)
+    .foo
+      color = size
